@@ -10,3 +10,7 @@ You can periodically pull the instructor's code into your repo (for reference, c
 
 - Asking the instructor to "push" his changes (if he hasn't done so recently)
 - Follow the instructions for [syncing your repository](./instructor/notes/00-syncing.md).
+we started class
+
+redo
+
